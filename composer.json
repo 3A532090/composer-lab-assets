@@ -1,0 +1,12 @@
+{
+    "name": "m510a-3140101/composer-lab-assets",
+    "authors": [
+        {
+            "name": "3A532088",
+            "email": "paileo007007@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
+}
